@@ -5,6 +5,7 @@ Partner A:
 - Establishing the 40-year analysis window
 - Co-led EDA v1 by calculating the initial CPI target changes and producing the baseline inflation shock charts. 
 - Claimed share: 50%.
+
 Signed: Hareem Khawar
 
 Partner B: 
