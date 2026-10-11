@@ -14,3 +14,4 @@ Partner B:
 - Co-led EDA v1 by coding the non-stationary feature transformations and the M2V confounder check. 
 - Led the five evidence-based questions. 
 - Claimed share: 50%.
+- Signed: Basil Butt
